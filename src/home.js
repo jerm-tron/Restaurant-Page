@@ -10,4 +10,4 @@ export function renderHomePage() {
   container.appendChild(img);
 }
 
-renderHomePage();
+//renderHomePage();
