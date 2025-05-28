@@ -46,6 +46,8 @@ nav button {
   border-radius: 30px;
 }
 
+button:hover{background-color:orange}
+
 #content {
   display: flex;
   width: 100vw;

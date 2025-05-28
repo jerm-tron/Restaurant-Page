@@ -1,5 +1,6 @@
 export function renderMenu() {
   const container = document.getElementById("content");
+  container.innerHTML = "";
 
   const menuWrap = document.createElement("div");
   menuWrap.classList.add("menu-wrap");
